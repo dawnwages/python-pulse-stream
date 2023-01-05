@@ -6,8 +6,10 @@
 - [PostgreSQL VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql)
 - [SQLTools Extension](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
 
+---
 
 **Connect**
+
 Dawn Wages | Twitter: [@BajoranEngineer](https://twitter.com/BajoranEngineer)
 Pamela Fox | Twitter: [@PamelaFox](https://twitter.com/pamelafox)
 
