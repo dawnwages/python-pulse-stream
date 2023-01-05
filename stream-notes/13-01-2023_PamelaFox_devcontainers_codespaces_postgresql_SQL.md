@@ -11,7 +11,9 @@
 **Connect**
 
 Dawn Wages | Twitter: [@BajoranEngineer](https://twitter.com/BajoranEngineer)
+
 Pamela Fox | Twitter: [@PamelaFox](https://twitter.com/pamelafox)
 
 Python VS Code | Twitter: [@AzureFriday](https://twitter.com/PythonVSCode)
+
 Python @ Microsoft | Discord: https://aka.ms/python-discord
