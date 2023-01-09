@@ -1,4 +1,5 @@
 # Guests of The Python Pulse - Show Brief
+![Python Pulse Banner](python_pulse_banner_long.png)
 
 ## The Formula:
 **Every second Friday 11AM PST**
@@ -13,10 +14,10 @@
 - Introduction / Bio (< 100 words)
 - Pronouns
 - Primary link (eg. Twitter / Mastodon / Personal site / GitHub)
-- Secondary link
+- Secondary link(s)
 - Slides? 
 - Name of episode (the format is "The Python Pulse - < Insert Topic Title >")
-- Talk description 
+- Talk description for video description on Youtube and Twitch stream; which will be adapted for socials
 - Any relevant links you'd like the audience to have
 
 
@@ -31,3 +32,25 @@ Once we've confirmed the stream date, I will send you a calendar hold for 30 min
 I will update the calendar hold with the StreamYard link, stream link (for promotion) and thumbnail (for promotion). You can access stream yard from any browser, the stream title and description once we've confirmed. We can use the 30 minutes before the stream to show you StreamYard or feel free to schedule time with me to walk through. I'm happy to help.
 
 I will receive a stream link that we can share around socials. Please promote the event in all channels you feel comfortable.
+
+### Tips
+
+- Close out of all other browsers and prorgrams
+- Put your machine on silent, unless you're sharing with video
+- Use incognito browser window
+- If you're sharing slides, IDE or terminal, I recommend sharing screen because sometime StreamYard is a little wonky with sharing just a particular application
+
+
+## FAQ
+
+Q. Can I pre-record if I can't make the second Friday at 11am?
+
+A. Yes! Let's talk about how to handle the live chat or where the audience can find you if they have questions.
+
+---
+
+Q. Does it have to be about Visual Studio Code?
+
+A. No. It must be about Python specifically and we can discuss topics that would be interesting to our audience. It needs to be general enough to pique interest, but specific enough to encourage action.
+
+---
