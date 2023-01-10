@@ -15,6 +15,11 @@
 - [Flask quiz app with Dev Container: github.com/pamelafox/flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example)
 -[Django quiz app with Dev Container: github.com/pamelafox/django-quiz-app](https://github.com/pamelafox/django-quiz-app)
 
+<<<<<<< HEAD
+=======
+![The Python Pulse PostgreSQL in Dev Containers and Codespaces](python_pulse_001_pamelafox.png)
+
+>>>>>>> 7fa245f0d618895b38a0a137a88244ca5c6460e5
 ---
 
 ![The Python Pulse PostgreSQL in Dev Containers and Codespaces](python_pulse_001_PamelaFox.png)
