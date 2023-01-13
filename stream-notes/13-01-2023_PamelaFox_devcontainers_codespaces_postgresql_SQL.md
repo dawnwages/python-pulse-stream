@@ -13,7 +13,7 @@
 -[Django quiz app with Dev Container: github.com/pamelafox/django-quiz-app](https://github.com/pamelafox/django-quiz-app)
 
 # Announcements
-- Celebrating 10 years of Azure App Service’s free tier [learn more](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/celebrating-10-years-of-azure-app-service-s-free-tier/ba-p/3621148)
+- Celebrating 10 years of Azure App Service’s free tier [learn more >>](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/celebrating-10-years-of-azure-app-service-s-free-tier/ba-p/3621148)
 - Python VS Code Templates [learn more >>](https://code.visualstudio.com/api/advanced-topics/python-extension-template)
 - Azure App Service supports Python 3.11
 - Azure Functions Python 3.10 preview
