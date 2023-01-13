@@ -1,6 +1,4 @@
 # Stream Notes
-
-
 - [GitHub Dev Containers Community](https://github.com/devcontainers)
 - [GitHub Codespaces Overview](https://docs.github.com/en/codespaces/overview)
 - [PostgreSQL VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql)
@@ -13,6 +11,14 @@
 - [Flask restaurant review app with Dev Container: github.com/Azure-samples/msdocs-flask-postgresql-sample-app-azd](https://github.com/Azure-samples/msdocs-flask-postgresql-sample-app-azd)
 - [Flask quiz app with Dev Container: github.com/pamelafox/flask-db-quiz-example](https://github.com/pamelafox/flask-db-quiz-example)
 -[Django quiz app with Dev Container: github.com/pamelafox/django-quiz-app](https://github.com/pamelafox/django-quiz-app)
+
+# Announcements
+- Celebrating 10 years of Azure App Service’s free tier [learn more](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/celebrating-10-years-of-azure-app-service-s-free-tier/ba-p/3621148)
+- Python VS Code Templates [learn more >>](https://code.visualstudio.com/api/advanced-topics/python-extension-template)
+- Azure App Service supports Python 3.11
+- Azure Functions Python 3.10 preview
+- More azd templates [learn more >>](https://azure.github.io/awesome-azd/?tags=python)
+
 
 ---
 
