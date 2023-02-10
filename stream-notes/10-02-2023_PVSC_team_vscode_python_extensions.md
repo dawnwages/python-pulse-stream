@@ -1,13 +1,13 @@
 # Stream Notes
-[Submit a issue for Python support in VS Code](https://aka.ms/pvsc-bug)
-[Python in Visual Studio Code - February 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2023-release/)
-[VS Code Releases](https://code.visualstudio.com/updates/v1_75)
-[VS Code Python Tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
-[VS Code Django Tutorial](https://code.visualstudio.com/docs/python/tutorial-django)
-[VS Code Pyton Tutorial](https://code.visualstudio.com/docs/python/tutorial-flask)
-[Deploy Python Apps through VS Code](https://code.visualstudio.com/docs/python/python-on-azure)
-[VS Code Python Settings Reference](https://code.visualstudio.com/docs/python/settings-reference)
-[Get started with Python in Visual Stuido Code Learn Module](https://learn.microsoft.com/en-us/training/modules/python-install-vscode/)
+- [Submit a issue for Python support in VS Code](https://aka.ms/pvsc-bug)
+- [Python in Visual Studio Code - February 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2023-release/)
+- [VS Code Releases](https://code.visualstudio.com/updates/v1_75)
+- [VS Code Python Tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
+- [VS Code Django Tutorial](https://code.visualstudio.com/docs/python/tutorial-django)
+- [VS Code Pyton Tutorial](https://code.visualstudio.com/docs/python/tutorial-flask)
+- [Deploy Python Apps through VS Code](https://code.visualstudio.com/docs/python/python-on-azure)
+- [VS Code Python Settings Reference](https://code.visualstudio.com/docs/python/settings-reference)
+- [Get started with Python in Visual Stuido Code Learn Module](https://learn.microsoft.com/en-us/training/modules/python-install-vscode/)
 
 # Announcements
 - Azure Developer CLI (azd) – February 2023 Release [learn more>>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
