@@ -33,7 +33,7 @@ Soojin Choi | Twitter: [@soojinchoi_](https://twitter.com/soojinchoi_)
 
 Dr. Sarah Kaiser | Twitter [@crazy4pi314](https://twitter.com/crazy4pi314)
 
-Python VS Code | Twitter: [@AzureFriday](https://twitter.com/PythonVSCode)
+Python VS Code | Twitter: [@PythonVSCode](https://twitter.com/PythonVSCode)
 
 Python @ Microsoft | Discord: [https://aka.ms/python-discord](https://aka.ms/python-discord)
 
