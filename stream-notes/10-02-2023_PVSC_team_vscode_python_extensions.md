@@ -29,7 +29,7 @@
 | Tags | #python #vscode |
 
 ---
-**Connect**
+# Connect
 
 Dawn Wages | Twitter: [@BajoranEngineer](https://twitter.com/BajoranEngineer)
 
