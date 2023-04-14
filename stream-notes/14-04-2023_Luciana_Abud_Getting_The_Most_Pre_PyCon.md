@@ -22,15 +22,15 @@
 - [Get started with Python in Visual Stuido Code Learn Module](https://learn.microsoft.com/en-us/training/modules/python-install-vscode/)
 
 # Announcements
-- PyDay - 2 May 2023 9:30am PT - Full day live stream with Pamela Fox with tons of great Python content including, but not limited to: Building, testing and deploying, FastAPI, Django, cloud databases, and containerizing your application with Docker [join us >>](https://developer.microsoft.com/en-us/reactor/events/18966/?wt.mc_id=twitter_18966_organicsocial_reactorus/resources/developers/python/)
+- PyDay - 2 May 2023 9:30am PT - Full day live stream with Pamela Fox with tons of great Python content including, but not limited to: Building, testing and deploying, FastAPI, Django, cloud databases, and containerizing your application with Docker [join us >>](https://aka.ms/pyday)
 - Pycon 2023 - 18 - 27 April - Microsft is returning as a sustaining sponsor [learn more >>]()
 - Azure Container Apps - April 2023 Release [learn more >>](https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-offers-new-plan-and-pricing-structure/)
-- VS Code Day 2023 - 26 April [learn More >>](https://learn.microsoft.com/en-us/events/learn-events/vs-code-day-2023/)
+- VS Code Day 2023 - 26 April [learn More >>](https://aka.ms/VSCodeDay)
 - Azure Developer CLI (azd) – February 2023 Release [learn more>>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
 - PyGames competition - ends 17 April [learn more](https://aka.ms/pygames)
 - Microsoft Contributed to Faster C Python [learn more >>](https://aka.ms/devblog-faster-c-python)
 - Azure App Service now supports Python 3.11
-- More azd templates [learn more >>](https://azure.github.io/awesome-azd/?tags=python)
+- More azd templates [learn more >>](https://aka.ms/azd-python-templates)
 
 ---
 
