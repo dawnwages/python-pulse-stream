@@ -34,6 +34,22 @@
 
 ---
 
+## Join us for PyCon!
+
+- VS CODE: Profiles, IntelliSense, Extensions and other tools to supercharge your Dev Environment
+- Testing your Application with Playwright
+- Deploying Django to Azure Container Apps with Azure Developer CLI
+- Live podcast recordings
+- Booth presentations
+- Special Presentations:
+    - Inside CPython 3.11’s new specializing, adaptive interpreter w/ Brandt Bucher
+    - A Per Interpreter GIL: Concurrency and Parallelism with SubInterpreters w/ Eric Snow
+    - Python’s Syntactic Sugar w/ Brett Cannon
+    - How we are making CPython faster past, present and future w/ Mark Shannon
+
+
+---
+
 ![The Python Pulse Getting the Most out of Python with VS Code and Azure](python_pulse_005_getting_the_most.png)
 
 | | |
