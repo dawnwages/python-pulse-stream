@@ -1,4 +1,5 @@
 # Stream Notes
+- [VS Code Profile - Data Wrangler](https://aka.ms/006-data-wrangler-profile)
 - [Working with Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 - [Data Science in VS Code Tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
 - [Get started with Jupyter notebooks for Python - Learn Module](https://learn.microsoft.com/en-us/training/modules/python-create-run-jupyter-notebook/)
@@ -18,20 +19,16 @@
 
 | | |
 |----|----|
-| Introduction / Bio | Soojin Choi and Dr. Sarah Kaiser  |
-| Topic / Episode Name | Jupyter Notebooks in VS Code |
-| Description | Jupyter Notebooks are the computational data scientists' tool of choice. Bringing the data science workflows into VS Code, your code editor supports the fastest growing area of computing. Dawn Wages discusses the best features VS Code supports for Jupyter Notebooks with Soojin Choi, the Jupyter Notebooks in VS Code Product Manager. |
-| Social Text | The Python Pulse live stream will cover how the Jupyter extension for @code / VS Code brings the power of the go-to tool for #datascience into your code editor with Dawn Wages and guest Soojin Choi. Mark your calendars 📅 Friday, February 24th 11AM PT / 7PM UTC |
-| Tags | #python #datascience #jupyter #computation |
+| Introduction / Bio | Jason Mew  |
+| Topic / Episode Name | Revolutionizing the way you clean data with Data Wrangler |
+| Description | Explore the new Data Wrangler VS Code extension with us! A new tool for data scientists and analysts who work with tabular data in Python.  |
+| Social Text | The Python Pulse live stream will cover how the new Data Wrangler extension for @code / VS Code brings the power of the go-to tool for #datascience into your code editor with Dawn Wages and guest Jason Mew. Mark your calendars 📅 Friday, May 12th 11AM PT / 7PM UTC |
+| Tags | #python #datascience #jupyter #datawrangler #computation |
 
 ---
 # Connect
 
 Dawn Wages | Twitter: [@BajoranEngineer](https://twitter.com/BajoranEngineer)
-
-Soojin Choi | Twitter: [@soojinchoi_](https://twitter.com/soojinchoi_)
-
-Dr. Sarah Kaiser | Twitter [@crazy4pi314](https://twitter.com/crazy4pi314)
 
 Python VS Code | Twitter: [@PythonVSCode](https://twitter.com/PythonVSCode)
 
