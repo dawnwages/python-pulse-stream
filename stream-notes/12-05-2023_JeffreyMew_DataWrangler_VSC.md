@@ -12,6 +12,9 @@
 - Python VS Code Templates [learn more >>](https://code.visualstudio.com/api/advanced-topics/python-extension-template)
 - Azure App Service now supports Python 3.11
 - More azd templates [learn more >>](https://azure.github.io/awesome-azd/?tags=python)
+- PyCon blog post coming soon
+- Build 2023
+- Python Software Foundation Board of Directors Elections 
 
 ---
 
