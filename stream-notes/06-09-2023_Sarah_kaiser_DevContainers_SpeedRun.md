@@ -1,15 +1,24 @@
 # Stream Notes
-- Model Cards for Model Reporting - Research paper by Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timni Debru (PDF) [read now >>](https://arxiv.org/pdf/1810.03993.pdf)
-- Microsoft Responsible AI Standard - For external release June 2022 (PDF) [read now >>](https://blogs.microsoft.com/wp-content/uploads/prod/sites/5/2022/06/Microsoft-Responsible-AI-Standard-v2-General-Requirements-3.pdf)
-- Microsoft Responsible AI [learn more >>](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6)
+- [GitHub Dev Containers Community](https://github.com/devcontainers)
+- [GitHub Codespaces Overview](https://docs.github.com/en/codespaces/overview)
+- [PostgreSQL VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-postgresql)
+- [SQLTools Extension](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)
+- [Development Containers](https://containers.dev/)
+- [VS Code tutorial: Create Dev Container](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
+- [Blog post: Running PostgreSQL in a Dev Container with Flask/Django](http://blog.pamelafox.org/2022/11/running-postgresql-in-devcontainer-with.html)
+- [Video: Running a Flask+PostgreSQL server in Codespaces](https://www.youtube.com/watch?v=vEtR5qsXfZE)
+- [Django restaurant review app with Dev Container: github.com/Azure-samples/msdocs-django-postgresql-sample-app-azd](https://github.com/Azure-samples/msdocs-django-postgresql-sample-app-azd)
+- [Flask restaurant review app with Dev Container: github.com/Azure-samples/msdocs-flask-postgresql-sample-app-azd](https://github.com/Azure-samples/msdocs-flask-postgresql-sample-app-azd)
 
 # Announcements
-- Don't forget to visit our booth or say hi to us virtually on venueless for PyCascades 2023 March 18th & 19th [Eternal Sunshine of the Spotless Development Environment by Sarah Kaiser >>](https://pretalx.com/pycascades-2023/talk/ZSXXTU/) [Python's Syntactic Sugar by Brett Cannon >>](https://pretalx.com/pycascades-2023/talk/QETDUD/)
 - Python Functions 3.10 support is generally available [learn more >>](https://azure.microsoft.com/en-au/products/functions/) 
 - Azure Developer CLI (azd) – February 2023 Release [learn more>>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
 - Python VS Code Templates [learn more >>](https://code.visualstudio.com/api/advanced-topics/python-extension-template)
 - Azure App Service now supports Python 3.11
 - More azd templates [learn more >>](https://azure.github.io/awesome-azd/?tags=python)
+- PyCon blog post coming soon
+- Build 2023
+- Python Software Foundation Board of Directors Elections 
 
 ---
 
@@ -19,8 +28,8 @@
 |----|----|
 | Introduction / Bio | Sarah Kaiser  |
 | Topic / Episode Name | Python, Pi and OpenAI |
-| Description | Dawn Wages @BajoranEngineer sits down with Sarah Kaiser @crazy4pi314@mathstodon.xyz to discuss making computers smarter, OpenAI and Python with many pie references leading up to Pi Day 2023. |
-| Social Text | The Python Pulse live stream host Dawn Wages @BajoranEngineer sits down with Sarah Kaiser @crazy4pi314@mathstodon.xyz to discuss making computers smarter, OpenAI and Python with many pie references leading up to Pi Day 2023. Mark your calendars 📅 Friday, March 10th 11AM PT / 7PM UTC |
+| Description | Sarah Kaiser and Dawn Wages are diving into your requests today LIVE by taking Python repo suggestions from the audience and creating Dev Containers. Join us for an hour of making development environments with Docker to enable you to develop anywhere with anyone.  |
+| Social Text | 📣 Calling all Pythonistas 🐍, we're taking extra audience participation with this live stream! The Python Pulse has always answered topical questions live, but this week we're going to take your favorite Python repos and create Dev Containers for them for a full hour LIVE 🔴📹. Join us 11am PT / 7pm UTC June 9th!  |
 | Tags | #python #openai #ai #datascience #computation |
 
 ---
