@@ -11,14 +11,17 @@
 - [Flask restaurant review app with Dev Container: github.com/Azure-samples/msdocs-flask-postgresql-sample-app-azd](https://github.com/Azure-samples/msdocs-flask-postgresql-sample-app-azd)
 
 # Announcements
-- Python Functions 3.10 support is generally available [learn more >>](https://azure.microsoft.com/en-au/products/functions/) 
-- Azure Developer CLI (azd) – February 2023 Release [learn more>>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
+- Polyglot notebook now supports Python and R [learn more >>](https://code.visualstudio.com/docs/languages/polyglot)
+- PyDay and VS Code Day on-demand videos [watch PyDay >>](https://www.youtube.com/live/WPVm-DXhGGM?feature=share) [watch VS Code Day playlist >>](https://www.youtube.com/playlist?list=PLj6YeMhvp2S7hWnmPEcxsSPEB0FLHqi0j)
 - Python VS Code Templates [learn more >>](https://code.visualstudio.com/api/advanced-topics/python-extension-template)
 - Azure App Service now supports Python 3.11
 - More azd templates [learn more >>](https://azure.github.io/awesome-azd/?tags=python)
-- PyCon blog post coming soon
-- Build 2023
-- Python Software Foundation Board of Directors Elections 
+- Azure Developer CLI (azd) – announced 1.0 ! [learn more>>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
+- Python Software Foundation Board Elections [watch >>](https://youtube.com/live/4uVquySTpiw?feature=share)
+  - Nominations now – June 15th
+  - Re-certify or sign up to be a PSF Member – June 15th 
+  - Elections June 20th – 30th 
+- Azure Python SDK [learn more >>](https://github.com/Azure/azure-sdk-for-python/releases?page=2)
 
 ---
 
