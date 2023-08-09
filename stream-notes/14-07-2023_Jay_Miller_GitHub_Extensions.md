@@ -45,7 +45,7 @@
 
 Dawn Wages | Twitter: [@BajoranEngineer](https://twitter.com/BajoranEngineer)
 
-Luciana Abud | Twitter: [@kjaymiller](https://twitter.com/kjaymiller)
+Jay Miller | Twitter: [@kjaymiller](https://twitter.com/kjaymiller)
 
 Python VS Code | Twitter: [@PythonVSCode](https://twitter.com/PythonVSCode)
 
