@@ -13,6 +13,7 @@
 - [Automation Panda - Playwright at PyCon US ](https://www.youtube.com/watch?v=5Wykd5OWSDQ)
 - [Playwright Python Announcement](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
 - [Playwright Youtube](https://www.youtube.com/@Playwrightdev)
+- [Sarah's blog on Profiles in VS Code](https://aka.ms/custom-vscode-profiles)
 
 # Announcements
 
