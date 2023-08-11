@@ -35,7 +35,7 @@
 ---
 # Connect
 
-Sarah Kaiser | Mastodon: [@crazy4pi314](crazy4pi314@mathstodon.xyz)
+Sarah Kaiser | Mastodon: [@crazy4pi314](https://mathstodon.xyz/@crazy4pi314)
 
 PamelaFox | Mastodon: [@pamelafox](https://fosstodon.org/@pamelafox)
 
