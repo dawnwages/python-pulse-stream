@@ -15,14 +15,11 @@
 - [Playwright Youtube](https://www.youtube.com/@Playwrightdev)
 
 # Announcements
-- Polyglot notebook now supports Python and R [learn more >>](https://code.visualstudio.com/docs/languages/polyglot)
-- PyDay and VS Code Day on-demand videos [watch PyDay >>](https://www.youtube.com/live/WPVm-DXhGGM?feature=share) [watch VS Code Day playlist >>](https://www.youtube.com/playlist?list=PLj6YeMhvp2S7hWnmPEcxsSPEB0FLHqi0j)
-- Python VS Code Templates [learn more >>](https://code.visualstudio.com/api/advanced-topics/python-extension-template)
-- Azure App Service now supports Python 3.11
-- More azd templates [learn more >>](https://azure.github.io/awesome-azd/?tags=python)
-- Azure Developer CLI (azd) – announced 1.0 ! [learn more>>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/)
-- Azure Python SDK [learn more >>](https://github.com/Azure/azure-sdk-for-python/releases?page=2)
 
+- [Azure Developers - Python Day](https://learn.microsoft.com/events/learn-events/azuredevelopers-pythonday/)
+- [Python in Visual Studio Code – August 2023 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-august-2023-release/)
+- [Azure Python SDK supports vector search](https://techcommunity.microsoft.com/t5/azure-ai-services-blog/announcing-vector-search-in-azure-cognitive-search-public/ba-p/3872868)
+- [Azure Developer CLI (azd) – announced 1.2.0](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2023-release/)
 
 ![The Python Pulse Getting the Most out of Python with VS Code and Azure](python_pulse_008_github_extensions_banner.png)
 
