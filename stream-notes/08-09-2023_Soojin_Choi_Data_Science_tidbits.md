@@ -1,8 +1,8 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
 # Stream Notes
-- [VS Code Insiders - Python + GitHub Profile](https://insiders.vscode.dev/profile/github/0b09e809a2199de2e5c62071f42a16e8)
-- [VS Code - Python + GitHub Profile](https://vscode.dev/profile/github/0b09e809a2199de2e5c62071f42a16e8)
+- [VS Code Insiders - Data Science with Soojin](https://insiders.vscode.dev/profile/github/539037056e4795ddf35e7095dde45616)
+- [VS Code - Data Science with Soojin](https://vscode.dev/profile/github/539037056e4795ddf35e7095dde45616)
 - [VS Code Docs - Data Science in VS Code](https://code.visualstudio.com/docs/datascience/overview)
 - [KD Nuggets - Essential VS Code Extensions Data Science (2022)](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html)
 - [VS Code Docs - Jupyter Notebook in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
