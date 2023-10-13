@@ -1,18 +1,26 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
 # Stream Notes
-- [Microsoft Open Source](https://cloudblogs.microsoft.com/opensource/)
-- [Microsoft Hacktoberfest 2022](https://devblogs.microsoft.com/python/python-hacktoberfest-2022/)
-- [Faster C Python](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
+- [VS Code Insiders - Data Science with Soojin](https://insiders.vscode.dev/profile/github/539037056e4795ddf35e7095dde45616)
+- [VS Code - Data Science with Soojin](https://vscode.dev/profile/github/539037056e4795ddf35e7095dde45616)
+- [VS Code Docs - Data Science in VS Code](https://code.visualstudio.com/docs/datascience/overview)
+- [KD Nuggets - Essential VS Code Extensions Data Science (2022)](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html)
+- [VS Code Docs - Jupyter Notebook in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
+** ... and more stream notes **
+- [Github Repo - VSCODE-JUPYTER](https://github.com/microsoft/vscode-jupyter)
+- [Github Discussions - VSCODE-JUPYTER](https://github.com/microsoft/vscode-jupyter/discussions)
+- [Data Science in VS Code Tutorial](https://code.visualstudio.com/docs/datascience/data-science-tutorial)
+- [Get started with Jupyter notebooks for Python - Learn Module](https://learn.microsoft.com/en-us/training/modules/python-create-run-jupyter-notebook/)
+- [Beginner Python - Learn Module](https://learn.microsoft.com/en-us/training/paths/beginner-python/)
+- [Track model triaining in Jupyter notebooks with MLflow - Learn Module](https://learn.microsoft.com/en-us/training/modules/track-model-training-jupyter-notebooks-mlflow/)
 
 # Announcements
 - Python in Excel [learn more >>](https://www.microsoft.com/en-us/microsoft-365/python-in-excel)
 - VS Code Workshop - October 8th, 2023 Online [get tickets >>](https://2023.djangocon.us/tickets)
-- Developer CLI v1.4.0 is out [release notes >>](https://aka.ms/azd-oct-2023)
+- AZD 1.2.0 [release notes >>](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-august-2023-release/)
 - AZD SKD [documentation >> ](https://learn.microsoft.com/en-us/azure/developer/python/sdk/) [releases >>](https://github.com/Azure/azure-sdk-for-python/releases)
-- Azure SQL Server Database October [release notes >>](https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new?view=azuresql)
-
+- Azure Developers - Python Day [Python Day Collection >>](https://aka.ms/PythonDay/Collection) [Python Day Videos >>](https://learn.microsoft.com/en-us/events/learn-events/azuredevelopers-pythonday/)
 
 
 ![The Python Pulse Getting the Most out of Python with VS Code and Azure](python_pulse_008_github_extensions_banner.png)
