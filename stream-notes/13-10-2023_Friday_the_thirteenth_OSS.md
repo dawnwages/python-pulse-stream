@@ -1,6 +1,9 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
 # Stream Notes
+
+- [VS Code Profile - ep 11 - OSS Contribution](https://aka.ms/pythonpulse/ep/11/profile)
+- [VS Code Insiders Profile - ep 11 - OSS Contribution](https://aka.ms/pythonpulse/ep/11/insiders-profile)
 - [Microsoft Open Source](https://cloudblogs.microsoft.com/opensource/)
 - [Microsoft Hacktoberfest 2022](https://devblogs.microsoft.com/python/python-hacktoberfest-2022/)
 - [Faster C Python](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
