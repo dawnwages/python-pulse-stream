@@ -2,8 +2,8 @@
 
 # Stream Notes
 
-- [VS Code Profile - ep 12 - Data Analysis](https://aka.ms/pythonpulse/ep/12/profile)
-- [VS Code Insiders Profile - ep 12 - Data Analysis](https://aka.ms/pythonpulse/ep/12/insiders-profile)
+- [VS Code Profile - ep 13 - VS Code Python](https://aka.ms/pythonpulse/ep/13/profile)
+- [VS Code Insiders Profile - ep 13 - VS Code Python](https://aka.ms/pythonpulse/ep/13/insiders-profile)
 - [Microsoft Open Source](https://cloudblogs.microsoft.com/opensource/)
 - [Faster C Python](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
 - [Overview of the Python Web azd Templates](https://review.learn.microsoft.com/en-us/azure/developer/python/overview-azd-templates)
@@ -11,10 +11,10 @@
 
 # Announcements
 - Python in Excel [learn more >>](https://www.microsoft.com/en-us/microsoft-365/python-in-excel)
-- Developer CLI v1.4.0 is out [release notes >>](https://aka.ms/azd-oct-2023)
-- AZD SKD [documentation >> ](https://learn.microsoft.com/en-us/azure/developer/python/sdk/) [releases >>](https://github.com/Azure/azure-sdk-for-python/releases)
-- Azure SQL Server Database October [release notes >>](https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new?view=azuresql)
-- Microsoft is the host for PyData NYC 2023 [PyData Tickets >>](https://pydata.org/nyc2023/)
+- Python Data Science Day - March 13th 2024
+- Azure Functions supports 3.11 [release notes >> ](https://azure.microsoft.com/en-us/updates/ga-support-for-python-311-in-azure-functions/) 
+- Microsoft Python 3.12 | Microsoft Store [release notes >>](https://apps.microsoft.com/detail/9NCVDN91XZQP?rtc=1&hl=en-us&gl=US)
+- Catch Pamela Fox speaking at FlaskCon - Dec 16 - 17th 2023 [FlaskCon Tickets >>](https://pydata.org/nyc2023/)
 
 
 
