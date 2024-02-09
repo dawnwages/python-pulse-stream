@@ -1,8 +1,6 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
 # Stream Notes
-
-# Stream Notes
 - [VS Code Insiders - Python + GitHub Profile](https://insiders.vscode.dev/profile/github/0b09e809a2199de2e5c62071f42a16e8)
 - [VS Code - Python + GitHub Profile](https://vscode.dev/profile/github/0b09e809a2199de2e5c62071f42a16e8)
 - [GitHub and VS Code 101](https://vscode.github.com/)
