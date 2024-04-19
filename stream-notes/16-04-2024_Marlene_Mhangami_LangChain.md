@@ -1,8 +1,8 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
 <style>
-    img[alt="VS Code Insiders Profile"] { width: 200px; }
-    img[alt="VS Code Monthly Profile"] { width: 200px; }
+    img[alt="VS Code Insiders Profile"] { width: 100px; }
+    img[alt="VS Code Monthly Profile"] { width: 100px; }
 </style>
 
 # Stream Notes
