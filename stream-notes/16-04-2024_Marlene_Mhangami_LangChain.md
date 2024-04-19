@@ -25,7 +25,7 @@
 
 | | |
 |----|----|
-| Topic / Episode Name | 🔴 LangChain and Python in VS Code |
+| Topic / Episode Name | 🔴 LangChain Code and Contributions |
 | Description | Join Marlene Mhangami, Python AI Advocate to talk creating examples with and contributing to LangChain all in VS Code. Catch all the tips and tricks to supercharge your environment as well as learn from the expert! |
 | Social Text | Learn AI and LangChain with us LIVE 🔴🎥 on the Python Pulse Friday April 19th 11:30AM PT / 2:30PM ET / 7:30PM UTC with @itsthatladydev and @bajoranengineer with @Githubcopilot. Don't miss it! |
 | Tags | 	#python #opensource #ai #copilot #django #data #github #vscode |
