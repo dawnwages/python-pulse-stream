@@ -1,9 +1,14 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
+<style>
+    img[alt="VS Code Insiders Profile"] { width: 200px; }
+    img[alt="VS Code Monthly Profile"] { width: 200px; }
+</style>
+
 # Stream Notes
 |VS Code - Insiders Profile| VS Code - Monthly Release Profile |
 |---|---|
-| [![VS Code Insiders Profile](vsc-insiders.png)](https://aka.ms/pythonpulse/ep/16/insiders-profile) | [![VS Code - Python + GitHub Profile](vsc.jpg)](https://aka.ms/pythonpulse/ep/16/profile)|
+| [![VS Code Insiders Profile](vsc-insiders.png)](https://aka.ms/pythonpulse/ep/16/insiders-profile) | [![VS Code Monthly Profile](vsc.jpg)](https://aka.ms/pythonpulse/ep/16/profile)|
 
 - [Keyless Authentication with Azure OpenAI](https://techcommunity.microsoft.com/t5/microsoft-developer-community/using-keyless-authentication-with-azure-openai/ba-p/4111521?WT.mc_id=academic-0000-abartolo)
 - [LangChain Agents Documentation](https://python.langchain.com/docs/modules/agents/)
