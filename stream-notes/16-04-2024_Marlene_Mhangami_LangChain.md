@@ -1,10 +1,5 @@
 [< Back to stream](https://aka.ms/python-pulse-live)
 
-<style>
-    img[alt="VS Code Insiders Profile"] { width: 100px; }
-    img[alt="VS Code Monthly Profile"] { width: 100px; }
-</style>
-
 # Stream Notes
 |VS Code - Insiders Profile| VS Code - Monthly Release Profile |
 |---|---|
@@ -48,3 +43,8 @@ Jay Miller | Twitter: [@marlene_zw](https://twitter.com/marlene_zw)
 Python VS Code | Twitter: [@PythonVSCode](https://twitter.com/PythonVSCode)
 
 Python @ Microsoft | Discord: [https://aka.ms/python-discord](https://aka.ms/python-discord)
+
+<style>
+    img[alt="VS Code Insiders Profile"] { width: 100px; }
+    img[alt="VS Code Monthly Profile"] { width: 100px; }
+</style>
