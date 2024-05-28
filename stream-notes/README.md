@@ -8,7 +8,7 @@
 |2024-04-16|Marlene Mhangami|[LangChain Code and Contributions](2024-04-16_Marlene_Mhangami_LangChain.md)|
 |2024-02-09|Kedasha Kerr|[The Python Pulse - Flask and Playwright](2024-02-09_Kedasha_Kerr_GitHub_Copilot.md)|
 |2024-01-12|Jay Miller|[The Python Pulse - Flask and Playwright](2024-01-12_Jay_Miller_Flask_Playwright.md)|
-|2024-01-03|Eleonor Boyd|[E2E Testing with Playwright](2024-01-03_Eleanor_Boyd_Testing_Flow.md)|
+|2024-01-03|Eleanor Boyd|[E2E Testing with Playwright](2024-01-03_Eleanor_Boyd_Testing_Flow.md)|
 |2023-12-08|Nitya Narasimhan|[The Python Pulse - Spoopy OSS with Python Cloud Advocates](2023-12-08_Dawn_Wages_Supercharge_DX.md)|
 |2023-11-03|Nitya Narasimhan|[The Python Pulse - Spoopy OSS with Python Cloud Advocates](2023-11-03_Nitya_Narasimhan_Simplifying_Data_Analysis.md)|
 |2023-10-13|-|[The Python Pulse - Spoopy OSS with Python Cloud Advocates](2023-10-13_Friday_the_thirteenth_OSS.md)|
